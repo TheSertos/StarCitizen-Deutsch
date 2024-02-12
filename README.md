@@ -1,4 +1,4 @@
-Star Citizen in Deutsch - Übersetzungs Datei für die LIVE, PTU und EPTU
+Star Citizen in/auf Deutsch - Übersetzungs Datei für die LIVE, PTU und EPTU
 
 Willkommen zur bisher ersten und einzigen, nahezu vollständige Übersetzung für Star Citizen in Deutsch, die "per Hand" übersetzt wurde. (Stand 12.2.24) 
 
