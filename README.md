@@ -13,7 +13,9 @@ Macht euch gerne selber ein Bild von dieser Qualität und hinterlasst mir gerne 
 
 https://discord.gg/UKdQqhJ3Q9 
 
-Wichtig für euch zu Wissen ist, das nahezu alles in Deutsch übersetzt ist, auch Missonstitel. Namen und Eigennamen wurden nicht übersetzt. Umlaute, die sich auf "Terminals" oder "Mouse over" befinden, wurden erstmal in typischer AE oder UE Weise geschrieben.
+Wichtig für euch zu Wissen ist, das nahezu alles in Deutsch übersetzt ist, auch Missionstitel. Namen und Eigennamen wurden nicht übersetzt. Umlaute, die sich auf "Terminals" oder "Mouse over" befinden, wurden erstmal in typischer AE oder UE Weise geschrieben.
 Sollte CIG Ihr Interface Anpassen, ist das umändern aber keine 10 Minuten Arbeit. 
 
-Das Projekt wird auch weiterhin mit Updates versorgt und ich hoffe damit, viele Spielerinnen und Spieler zu begeistern, die wiederum und sofern Sie möchten, mir ein Feedback und/oder Mögliche Fehler in der Übersetzung aufzeigen und im Discord mitteilen - denn, niemand ist bekanntlicherweise perfekt.
+Im Discord könnt ihr auch eine Versions History einsehen, auch sieht man dort "besser" was bishher zwischen den einzelnen Versionen "Passiert" ist.
+
+Das Projekt wird auch weiterhin mit Updates versorgt und ich hoffe damit, viele Spielerinnen und Spieler zu begeistern, die wiederum und sofern Sie möchten, mir ein Feedback und/oder Mögliche Fehler in der Übersetzung aufzeigen und im Discord mitteilen - denn niemand ist bekanntlicherweise perfekt.
