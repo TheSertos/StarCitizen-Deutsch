@@ -1,12 +1,12 @@
 Star Citizen in/auf Deutsch - Übersetzungs Datei für die LIVE, PTU und EPTU
 
-Willkommen zur bisher ersten und einzigen, nahezu vollständige Übersetzung für Star Citizen in Deutsch, die "per Hand" übersetzt wurde. (Stand 12.2.24) 
+Willkommen zur bisher ersten und einzigen, nahezu vollständiger Übersetzung für Star Citizen in Deutsch, die "per Hand" übersetzt wurde. (Stand 12.2.24) 
 
 Der Hintergrund für dieses Projekt war, das bisher ALLE Übersetzungen die es gibt, mehr oder weniger komplett durch eine KI oder diverse Übersetzungtools übersetzt wurde und mir das persönlich nicht gefallen hat. 
 
-Missions Texte ergaben zu oft keinen Sinn, Variablen waren falsch übernommen, Zeilen fehlten oder waren doppelt (Variablen zwar gleich, aber die Texte unterschiedlich übersetzt) um mal ein Beispiel zu nennen. 
+Missions Texte ergaben zu oft keinen Sinn, Variablen waren falsch übernommen, Zeilen fehlten oder waren doppelt vorhanden (Variablen zwar gleich, aber die Texte unterschiedlich übersetzt), um mal ein Beispiel zu nennen. 
 
-Im Dezember 2023, in meine Version der Übersetzung hatte ich bereits viele etliche Stunden Zeit investiert und war immer noch nicht glücklich damit, habe ich beschlossen, ganz von vorne anzufangen. 
+Im Dezember 2023, in meine bisherige Version der Übersetzung hatte ich bereits viele etliche Stunden Zeit investiert und war immer noch nicht glücklich damit, habe ich beschlossen, ganz von vorne anzufangen. 
 Unterstüzt durch die Community, welche sich auf einem Discord bereits gebildet hatte, entstand nach und nach eine Übersetzung, welche mittlerweile einige Orgas, Streamer und Spieler benutzen und sehr angetan von dieser sind.
 
 Macht euch gerne selber ein Bild von dieser Qualität und hinterlasst mir gerne ein paar Zeilen auf unserem Discord.   
