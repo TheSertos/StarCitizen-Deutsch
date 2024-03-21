@@ -1,6 +1,6 @@
 Star Citizen in/auf Deutsch - Übersetzungs Datei für die LIVE, PTU und EPTU
 
-Willkommen zur bisher ersten und einzigen, nahezu vollständiger Übersetzung für Star Citizen in Deutsch, die "per Hand" übersetzt wurde. (Stand 12.2.24) 
+Willkommen zur bisher ersten, einzigen und vollständiger Übersetzung für Star Citizen in Deutsch, die "per Hand" komplett übersetzt wurde. (Stand 21.3.24) 
 
 Der Hintergrund für dieses Projekt war, das bisher ALLE Übersetzungen die es gibt, mehr oder weniger komplett durch eine KI oder diverse Übersetzungtools übersetzt wurde und mir das persönlich nicht gefallen hat. 
 
@@ -18,4 +18,4 @@ Sollte CIG Ihr Interface Anpassen, ist das umändern aber keine 10 Minuten Arbei
 
 Im Discord könnt ihr auch eine Versions History einsehen, auch sieht man dort "besser" was bishher zwischen den einzelnen Versionen "Passiert" ist.
 
-Das Projekt wird auch weiterhin mit Updates versorgt und ich hoffe damit, viele Spielerinnen und Spieler zu begeistern, die wiederum und sofern Sie möchten, mir ein Feedback und/oder Mögliche Fehler in der Übersetzung aufzeigen und im Discord mitteilen - denn niemand ist bekanntlicherweise perfekt.
+Das Projekt wird auch weiterhin nach dem 21.3.2024 mit Updates versorgt und ich hoffe damit, viele Spielerinnen und Spieler zu begeistern, die wiederum und sofern Sie möchten, mir ein Feedback und/oder Mögliche Fehler in der Übersetzung aufzeigen und im Discord mitteilen - denn niemand ist bekanntlicherweise perfekt.
