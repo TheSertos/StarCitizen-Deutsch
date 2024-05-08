@@ -10,7 +10,7 @@ Unterstützt durch die Community, welche sich auf einem Discord bereits gebildet
 Macht euch gerne selber ein Bild von dieser Qualität und hinterlasst mir gerne ein paar Zeilen auf unserem [Discord](https://discord.gg/UKdQqhJ3Q9).
 
 Wichtig für euch zu Wissen ist, das nahezu alles in Deutsch übersetzt ist, auch Missions-Titel.
-- Namen und Eigennamen wurden nicht übersetzt.-
+- Namen und Eigennamen wurden nicht übersetzt.
 - Umlaute, die sich auf "Terminals" oder "Mouse over" befinden, wurden erstmal in typischer AE oder UE Weise geschrieben. Sollte CIG Ihr Interface Anpassen, ist das umändern aber keine 10 Minuten Arbeit.
 
 Im Discord könnt ihr auch eine Versions History einsehen, auch sieht man dort "besser" was bisher zwischen den einzelnen Versionen "Passiert" ist.
