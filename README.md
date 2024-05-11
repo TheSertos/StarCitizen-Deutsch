@@ -3,7 +3,7 @@ Star Citizen in/auf Deutsch - Übersetzungsdatei für die LIVE, PTU und EPTU Ver
 
 Willkommen zu dieser Übersetzung für Star Citizen in Deutsch, die ein Gemeinschaftsprojekt ist.  
 
-Ziel ist es, eine gute Deutsche Übersetzung bereit zu stellen, die jeder ohne Einschränkung benutzen, verändern und veröffenlichen darf. 
+Ziel ist es, eine gute Deutsche Übersetzung bereit zu stellen, die jeder ohne Einschränkung benutzen, verändern und veröffentlichen darf. 
 
 Zur Geschichte:
 Mitte Oktober 2023 bekam ich eine Datei in die Hände, die unter dem Namen "global.ini" bekannt ist und eine erste Version der deutschen Übersetzung darstellte. In den folgenden Wochen investierte ich viel Zeit, um diese funktionsfähig zu machen, da durch die Übersetzung viele Variablen nicht mehr richtig funktionierten und es Fehler im Spiel gab.  
